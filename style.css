@@ -1,0 +1,204 @@
+body {
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #AE7C78;
+    background-color: #ffffff;
+  }
+
+button {
+    border: 0;
+    background-color: #ffffff;
+}
+
+a {
+    color: #AE7C78;
+    text-decoration: none;
+  }
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 59px;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+p,a {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+footer {
+    margin: 0;
+    background:  #AE7C78;
+    padding: 32px 0;
+}
+
+.italic {
+    font-style: italic; 
+    font-size: 44px;
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.white {
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.button_look {
+    background-color: #D89999;
+    border-radius: 40px;
+    padding: 30px 70px 30px 69px;
+}
+
+.button_order {
+    background-color: #D89999;
+    border-radius: 40px;
+    padding: 30px 105px 30px 107px;
+}
+
+.border_header {
+    margin-top: 26px;
+    margin-bottom: 82px;;
+    border-width: 1px 0px;
+    border-color: #AE7C78;
+    border-style: solid;
+}
+
+.fast_delivery {
+    margin-top: 48px;
+    padding-left: 102px;
+    background-image: url("img/delivery.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.fresh_flowers {
+    margin-top: 48px;
+    padding-left: 72px;
+    background-image: url("img/fresh_flowers.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.photo_flowers {
+    margin-top: 48px;
+    padding-left: 79px;
+    background-image: url("img/photo_flowers.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.wedding {
+    margin-top: 80px;
+    background-image: url("img/wedding.jpg");
+    width: 388px;
+    height: 442px;
+}
+
+.peony {
+    margin-top: 80px;
+    background-image: url("img/peony.jpg");
+    width: 387px;
+    height: 442px;
+}
+
+.select {
+    margin-top: 80px;
+    background-image: url("img/select.jpg");
+    width: 387px;
+    height: 442px;
+}
+
+.discount {
+    margin-top: 80px;
+    background:  #AE7C78;
+    width: 610px;
+    height: 391px;
+}
+
+.order {  
+    margin-top: 37px;
+    padding-top: 28px;
+    background-image: url("img/order.svg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.details {
+    margin-top: 37px;
+    padding-top: 28px;
+    background-image: url("img/details.svg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.payment {
+    margin-top: 37px;
+    padding-top: 28px;
+    background-image: url("img/payment.svg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.delivery {
+    margin-top: 37px;
+    padding-top: 28px;
+    background-image: url("img/delivery.svg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.reviews{
+    width: 1200px;
+    height: 308px;
+    border: 1px solid #AE7C78;
+}
+
+.contacts {
+    position: relative;
+}
+
+.card {
+    position: absolute;
+    top: 52px;
+    bottom: 72px;
+    left: 222px;
+    width: 386px;
+    height: 520px;
+    background: #F7FAFC;
+    box-shadow: 0px 4px 40px rgba(217, 217, 217, 0.3);
+    border-radius: 12px;
+}
+
+.map {
+    width: 100%;
+    height: 644px;
+}
+
